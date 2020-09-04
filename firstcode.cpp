@@ -6,3 +6,8 @@ third line
 nice change
 sixth line
 seventh line
+
+
+--
+
+new line
