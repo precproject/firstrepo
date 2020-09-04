@@ -11,3 +11,4 @@ seventh line
 --
 
 new line
+new line
